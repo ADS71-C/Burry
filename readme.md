@@ -3,7 +3,7 @@ The recommend way of installing is by using a virtual environment. The easiest w
 
 1. When virtualenvwrapper is installed run the command `mkvirtualenv --python=python3 burry`
     * In the future you can use `workon burry` to work on the project 
-    * If you are using Intellij or PyCharm you can set `Project interpreter` then click the cog, add local and then point to your `[HOME_FOLDER]/.virtualenvs/burry`
+    * If you are using Intellij or PyCharm you can set `Project interpreter` then click the cog, add local and then point to your `[HOME_FOLDER]/.virtualenvs/burry/bin/python`
 1. Install the dependecies using `pip install -r requirements.txt`. This will install everything you need to use Burry.
 1. Aquire a dataset for use with Burry.
     * A sample dataset is available if you have been provided with a `.env` file
