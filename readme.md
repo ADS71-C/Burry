@@ -1,4 +1,4 @@
-##First run
+## First run
 The recommend way of installing is by using a virtual environment. The easiest way of doing this is by using [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/install.html#quick-start)
 
 1. When virtualenvwrapper is installed run the command `mkvirtualenv --python=python3 burry`
